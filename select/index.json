@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シーサイド・ブルー(「シャインポスト」)",
+  "base_artist": "LAUGH DiAMOND(たかむら ひびき、かざまつり あさひ、やまだ かのん)",
+  "createdAt": "2026-03-10T14:49:28.581403Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シーサイド・ブルー(「シャインポスト」)",
+      "artist": "LAUGH DiAMOND(たかむら ひびき、かざまつり あさひ、やまだ かのん)",
+      "has_synced": false,
+      "path": "select/pl_01_シーサイド・ブルー(「シャインポスト」)_LAUGH_DiAMOND(たかむら_ひびき、かざまつり_あさひ、やまだ_かのん).txt"
+    }
+  ]
+}
